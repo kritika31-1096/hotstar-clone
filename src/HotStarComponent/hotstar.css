@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+
 
 *{
     padding: 0;
@@ -7,6 +9,7 @@
 }
 
 body{
+    background: #efefef;
     font-family: "Roboto","HelveticaNeue-Light",sans-serif;
     font-size: 1.125em;
 }
